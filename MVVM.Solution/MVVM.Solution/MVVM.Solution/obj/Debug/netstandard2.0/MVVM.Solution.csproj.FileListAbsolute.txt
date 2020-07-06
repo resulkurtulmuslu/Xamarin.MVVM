@@ -1,0 +1,15 @@
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\bin\Debug\netstandard2.0\MVVM.Solution.deps.json
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\bin\Debug\netstandard2.0\MVVM.Solution.dll
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\bin\Debug\netstandard2.0\ref\MVVM.Solution.dll
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\bin\Debug\netstandard2.0\MVVM.Solution.pdb
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\MVVM.Solution.csprojAssemblyReference.cache
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\Views\PersonPage.xaml.g.cs
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\MVVM.Solution.AssemblyInfoInputs.cache
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\MVVM.Solution.AssemblyInfo.cs
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\MVVM.Solution.csproj.CoreCompileInputs.cache
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\MVVM.Solution.dll
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\ref\MVVM.Solution.dll
+D:\GitHub\Mobile.MVVM\Xamarin.MVVM\MVVM.Solution\MVVM.Solution\MVVM.Solution\obj\Debug\netstandard2.0\MVVM.Solution.pdb
